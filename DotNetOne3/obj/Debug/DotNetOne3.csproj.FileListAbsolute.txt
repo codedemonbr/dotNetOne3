@@ -1,0 +1,7 @@
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\bin\Debug\DotNetOne3.exe.config
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\bin\Debug\DotNetOne3.exe
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\bin\Debug\DotNetOne3.pdb
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\obj\Debug\DotNetOne3.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\obj\Debug\DotNetOne3.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\obj\Debug\DotNetOne3.exe
+C:\Users\Henrique\source\repos\DotNetOne3\DotNetOne3\obj\Debug\DotNetOne3.pdb
